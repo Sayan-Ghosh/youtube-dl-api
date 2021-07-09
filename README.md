@@ -14,6 +14,10 @@ $ npm install
 
 ## Routes
 
+/download
+
+To download the file.
+
 Go to localhost:4000 and paste your video link and then add itag=18&type.
 type = mp4 or mp3.
 
