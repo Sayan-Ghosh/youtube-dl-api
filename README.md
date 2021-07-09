@@ -1,8 +1,8 @@
-#YOUTUBE DOWNLOADER API
+# YOUTUBE DOWNLOADER API
 
 This is an API that can be used to download youtube videos, shorts and also the links from the YouTube App.
 
-#TO USE
+## Installation
 
 Run the following command to clone the repository and install the dependencies.
 
